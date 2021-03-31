@@ -1,0 +1,26 @@
+.background {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: brown;
+    font-size: 30px;
+}
+
+#mycanvas {
+    border-width: 10px;
+    border-style: groove;
+    background-color: white;
+}
+
+span {
+    font-size: 20px;
+}
+button{
+    background-color: saddlebrown;
+    color: rgb(236, 0, 236);
+    font-size: 20px;
+    padding: 5px 30px;
+}
